@@ -1,0 +1,11 @@
+-----------------------------------------------
+RULES
+
+This is a quiz to practice forming Japanese verb conjugations.
+The program will give a random Japanese verb in its base form (dictionary form), and you have to conjugate it to the given form.
+
+The program accepts answers in both hiragana and the Latin alphabet.
+
+
+You can quit at any time by typing 'quit'.
+-----------------------------------------------

@@ -1,0 +1,68 @@
+読む,よむ,yomu,to read
+聞く,きく,kiku,to listen
+見る,みる,miru,to see
+食べる,たべる,taberu,to eat
+飲む,のむ,nomu,to drink
+言う,いう,iu,to say
+行く,いく,iku,to go
+来る,くる,kuru,to come
+する,する,suru,to do
+話す,はなす,hanasu,to speak
+書く,かく,kaku,to write
+買う,かう,kau,to buy
+待つ,まつ,matsu,to wait
+持つ,もつ,motsu,to hold
+寝る,ねる,neru,to sleep
+起きる,おきる,okiru,to get up
+入る,はいる,hairu,to enter
+泳ぐ,およぐ,oyogu,to swim
+遊ぶ,あそぶ,asobu,to play
+忘れる,わすれる,wasureru,to forget
+作る,つくる,tsukuru,to make
+洗う,あらう,arau,to wash
+分かる,わかる,wakaru,to understand
+教える,おしえる,oshieru,to teach
+学ぶ,まなぶ,manabu,to learn
+足す,たす,tasu,to add
+答える,こたえる,kotaeru,to answer
+付く,つく,tsuku,to attach
+浴びる,あびる,abiru,to bathe
+着く,つく,tsuku,to arrive
+生まれる,うまれる,umareru,to be born
+直る,なおる,naoru,to be cured
+負ける,まける,makeru,to lose
+違う,ちがう,chigau,to differ
+見つける,みつける,mitsukeru,to find
+困る,こまる,komaru,to be troubled
+無くなる,なくなる,nakunaru,to disappear
+見える,みえる,mieru,to be visible
+始める,はじめる,hajimeru,to begin
+終わる,おわる,owaru,to end
+始まる,はじまる,hajimaru,to begin
+咲く,さく,saku,to bloom
+吹く,ふく,fuku,to blow
+乗る,のる,noru,to ride
+貸す,かす,kasu,to lend
+借りる,かりる,kariru,to borrow
+立つ,たつ,tatsu,to stand
+呼ぶ,よぶ,yobu,to call
+調べる,しらべる,shiraberu,to investigate
+選ぶ,えらぶ,erabu,to choose
+登る,のぼる,noboru,to climb
+閉まる,しまる,shimaru,to close
+続く,つづく,tsudzuku,to continue
+続ける,つづける,tsudzukeru,to continue
+切る,きる,kiru,to cut
+決める,きめる,kimeru,to decide
+死ぬ,しぬ,shinu,to die
+楽しむ,たのしむ,tanoshimu,to enjoy
+出す,だす,dasu,to take out
+倒れる,たおれる,taoreru,to fall down
+下がる,さがる,sagaru,to lower
+釣る,つる,tsuru,to fish
+並ぶ,ならぶ,narabu,to line up
+泣く,なく,naku,to cry
+誓う,ちかう,chikau,to vow
+引く,ひく,hiku,to pull
+歩く,あるく,aruku,to walk
+走る,はしる,hashiru,to run
