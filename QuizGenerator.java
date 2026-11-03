@@ -95,7 +95,7 @@ public class QuizGenerator {
     public List<String> chooseWord(Map<String,List<String>> verbs)
     {
         int mapSize = verbs.size();
-        int rand = (int)(Math.random() * mapSize-1);
+        int rand = (int)(Math.random() * mapSize);
         List<String> keys = new ArrayList<>(verbs.keySet());
         String chosenWord = keys.get(rand);
         List<String> wordInfo = verbs.get(chosenWord);
