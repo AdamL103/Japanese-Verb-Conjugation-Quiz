@@ -13,7 +13,7 @@ public class RunQuiz
         try
         {
             Scanner verbs = new Scanner(new File("verbs.txt"), "UTF-8");
-            Scanner kanaLatin = new Scanner(new File("KanatoLatin.txt"), "UTF-8");
+            Scanner kanaLatin = new Scanner(new File("KanaToLatin.txt"), "UTF-8");
             Scanner kanaRoots = new Scanner(new File("HiraganaRoots.txt"), "UTF-8");
             Scanner input = new Scanner(System.in);
             QuizGenerator q = new QuizGenerator();
