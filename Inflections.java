@@ -251,7 +251,7 @@ public class Inflections
         {
             if (word.equals("する"))
             {
-                return "される";
+                return "させる";
             }
             else if (word.equals("くる"))
             {
